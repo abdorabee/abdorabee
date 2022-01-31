@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @abdorabee
 - 👀 I’m interested in web development and AI
-- 🌱 I’m currently learning JS ans Nodejs
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning JS and Nodejs
 - 📫 How to reach me 
 instagram:abdorabee_10
 twitter:abdo_rabee22
