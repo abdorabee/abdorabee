@@ -23,6 +23,4 @@ Ready to embark on this magical adventure? Grab your wands (or keyboards) and le
 
 Abdel-Rahaman Rabee
 abdelrahamanrabee1134@gmail.ocm
-abdorabee/abdorabee is Backend developer / React (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
